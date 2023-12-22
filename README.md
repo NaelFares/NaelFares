@@ -4,10 +4,11 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Nael+FARES;Student+in+Computer+Science;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-
+- 📍 Toulouse, (France)
 - 🔭 I'm currently a second-year student in Bachelor of Science in Computer Science, specialized in Database at Paul Sabatier University, Toulouse, France
-
-
+- 💼 With a strong interest in IT, I'm looking for engaging opportunities to expand my knowledge
+  
+<br> 
 
 ## 🚀 Technologies & Skills
 
