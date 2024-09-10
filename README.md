@@ -5,7 +5,7 @@
 </p>
 
 - 📍 Toulouse, (France)
-- 🔭 I'm currently a second-year student in Bachelor of Science in Computer Science, specialized in Database at Paul Sabatier University, Toulouse, France
+- 🔭 I'm currently a third-year student in Bachelor of Science in Computer Science, specialized in Database at Paul Sabatier University, Toulouse, France
 - 💼 With a strong interest in IT, I'm looking for engaging opportunities to expand my knowledge
   
 <br> 
