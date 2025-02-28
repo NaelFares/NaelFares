@@ -12,7 +12,7 @@
 
 ## 🚀 Technologies & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,discord,eclipse,github,java,js,php,py,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,eclipse,github,java,js,php,py,ts,vscode,python,pytorch,tensorflow)](https://skillicons.dev)
 
 ## 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
@@ -28,6 +28,9 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 📫 Contacts
 
